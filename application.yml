@@ -1,7 +1,8 @@
 spring:
   application:
     name: CONFIG-def
-    eureka:
+
+eureka:
   instance:
     prefer-ip-address: true
   client:
